@@ -11,3 +11,9 @@ langchain-google-genai
 langchain-ollama
 
 langchain-groq
+
+langchain
+
+langchain-openai
+
+ipywidgets
